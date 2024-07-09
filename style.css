@@ -1,0 +1,68 @@
+     body{  font-family: "Poppins", sans-serif}
+       .main-sec{text-align: center;
+  background-image: url("../assets/Hero-bg.png"); 
+  max-width: 1340px;
+background-color: 000072;}
+ 
+ 
+ .btn{
+ 
+    
+    font-size: 10px;
+    font-weight: 800;
+  background-color: ADC8F7;
+    padding: 18px 35px;
+   margin-bottom: 20px;
+
+ }
+ .text{
+    font-size: 20px;
+    font-weight: 300;
+ }
+    
+  .main-sec-2{
+    text-align: center;
+  }
+  .main-sec-2 ul li{
+    list-style: none;
+  }
+.text-2{
+    font-weight: 200;
+    font-size: 20px;
+  
+}
+ .parent{
+    display: flex;
+    padding: 238px;
+    border: 10px;
+    margin:o 130px ;
+ 
+
+  
+
+ } 
+  .parent-text{padding:0 97px;
+   
+
+   
+  
+  }  
+.parent-2{
+  
+  
+  
+
+  
+   
+ 
+  
+}
+.text-3{ font-weight: 200;
+    font-size: 20px;
+    
+}
+.h3-2{
+  
+    
+    
+}
