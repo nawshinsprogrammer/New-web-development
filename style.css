@@ -41,13 +41,13 @@ background-color: 000072;}
   
 
  } 
-  .parent-text{padding:0 97px;
+  .parent-text{padding:0 97px;}
    
 
    
   
-  }  
-.parent-2{
+   
+
   
   
   
@@ -56,29 +56,59 @@ background-color: 000072;}
    
  
   
-}
+
 .text-3{ font-weight: 200;
     font-size: 20px;
     
 }
-.h3-2{
+
   
     
     
-}
+
 .video{
   width: 1140px;
   text-align: center;
 }
-.inspiration{
-  
-  text-align: center;
-  padding: 30px;
-  margin:  0 50px;
-}
-.text-4{font-size: 20px;
-  font-weight: 200;
+  .Inspiration{
+    text-align: center;}
+      padding:{130px;}
+    margin:{o 150px};
   
   
 
+.text-4{font-size: 20px;
+  font-weight: 200;}
+  .good luck{
+    text-align: center;
+    width: 852px;
+  }
+.center{
+  text-align: center;}
+
+.target{
+  text-align: center;
+  padding: 130px; 
+  margin{
+    0 130px;
+
+  }
+.Basic tools container{
+  display: flex;
 }
+
+
+.one{
+  
+  width:1340px;
+  padding:84px 50px ;
+  margin: 130px ;
+ 
+
+}
+  
+
+ 
+  
+  
+
