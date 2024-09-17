@@ -1,47 +1,167 @@
-     body{  font-family: "Poppins", sans-serif}
-       .main-sec{text-align: center;
-  background-image: url("../assets/Hero-bg.png"); 
-  max-width: 1340px;
-background-color: 000072;}
- 
- 
- .btn{
- 
-    
-    font-size: 10px;
-    font-weight: 800;
-  background-color: ADC8F7;
-    padding: 18px 35px;
-   margin-bottom: 20px;
+body{ 
+  .font-family: "Poppins", sans-serif};
 
- }
- .text{
-    font-size: 20px;
-    font-weight: 300;
- }
-    
-  .main-sec-2{
-    text-align: center;
-  }
-  .main-sec-2 ul li{
-    list-style: none;
-  }
-.text-2{
-    font-weight: 200;
-    font-size: 20px;
-  
+
+.start{
+width: (4/12px);
+
+/* justify-content: space-between; */
 }
- .parent{
-    display: flex;
-    padding: 238px;
-    border: 10px;
-    margin:o 130px ;
+.start-1{
+display: flex;
+justify-content: space-between;
+padding: 20px 45px;
+}
+
+.start-1 p{
+font-size: 25px;
+}
+
+.start-1 button{
+padding: 5px 10px;
+}
+.span{
+font-weight: bold;
+}
+.span-2{
+background-color: rgb(153, 153, 233); 
+/* padding: 5px 10px; */
+border-radius:10px;
+}
+.span-2 p{
+color:#000;
+}
+
+/* .part-1{
+width: (5/12px);
+} */
+.title h1{
+font-weight: 900;
+text-align: center;
+padding: 40px 50px;
+}
+.profile-pic{
+text-align: center;
+}
+.group{
+background-image: url("assets/Hero-bg.png");
+
+text-align: center;
+
+
+}
+.group h1{
+font-size: 40px;
+font-weight: 1,100;
+}
+.group p{
+font-size: 18px;
+color: gray;
+}
+.btn{
+padding: 12px 40px;
+background-color: #211f1f;
+color: white;
+border-radius:15px ;
+margin-bottom: 20px;
+}
+
+.next-section{
+
+width: 1380px;
+background-color: rgb(209, 204, 204);
+
+
+
+}
+.middle{
+text-align: center;
+
+}
+.next-section-para{
+font-size: 30px;
+font-weight:bolder;
+
+padding-top:30px;
+}
+.child1 h3{
+color:grey;
+}
+.parent-div{
+display: flex;
+justify-content: space-evenly;
+margin-top: 40px;
+padding: 10px 30px;
+}
+.child1 para{
+padding: 20px 40px;
+}
+
+.button{
+padding: 10px 30px;
+color:grey;
+}
+.parent-child2{
+display: flex;
+justify-content: space-evenly;
+}
+.fun{
+padding: 10px 30px;
+color: grey;
+}
+
+.second-section{
+background-color: rgb(209, 201, 201);
+
+width: 1380px;
+;
+}
+.parent-child2-para h3{
+   color: grey;
+}
+.text{
+   color: grey;
+}
+.text p{
+   color: #000;
+}
+.parent-div3{
+   display: flex;
+   justify-content: space-evenly;
+   margin-top: 30px;
+}
+     
+
+
+
+       
+   
+
+     
+
+      
+       
+     
+
+       
+
+
+
+     
+
+      
  
+ 
+
+
+ 
+
+ 
+
 
   
 
- } 
-  .parent-text{padding:0 97px;}
+
    
 
    
@@ -71,29 +191,37 @@ background-color: 000072;}
   text-align: center;
 }
   .Inspiration{
-    text-align: center;}
-      padding:{130px}
-    margin:{o 150px};
+    text-align: center;
+      padding:130px;
+    margin: 150px;}
   
   
 
-.text-4{font-size: 20px;
+.text-4{
+  font-size: 20px;
   font-weight: 200;}
-  .good luck{
+  .good luck
+  {
     text-align: center;
     width: 852px;
   }
-.center{
+.center
+{
   text-align: center;}
 
-.target{
+.target
+{
   text-align: center;
-  padding: 130px; }
-  margin{
-    0 130px;}
+  padding: 130px; 
+  margin:130px;}
 
   
-.Basic tools container{
+  
+    
+
+  
+.Basic tools container
+{
   display: flex;
 }
 .one{
