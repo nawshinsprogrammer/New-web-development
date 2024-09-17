@@ -64,6 +64,11 @@ background-color: #211f1f;
 color: white;
 border-radius:15px ;
 margin-bottom: 20px;
+text-decoration: none;
+}
+.click{
+  text-decoration: none;
+  color:white;
 }
 
 .next-section{
@@ -221,6 +226,16 @@ width: 1380px;
   border-radius: 10px;
   text-align: center;
 
+}
+.last-parent{
+  background-color: aliceblue;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  padding: 20px 60px;
+}
+.icons{
+  margin-top: 20px;
 }
  
 
